@@ -1,3 +1,2 @@
 # infinite-queue
-
-Describe your project here.
+This is a model of the single server infinite queue length system
